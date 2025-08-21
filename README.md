@@ -111,5 +111,3 @@ Performance may vary depending on dataset splits and tuning parameters.
 Developed by **Haroon Waheed**
 
 ---
-
-Do you also want me to generate a **requirements.txt** file automatically from your notebook imports so you can include it in the repo?
